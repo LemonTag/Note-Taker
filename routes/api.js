@@ -1,19 +1,16 @@
 const path = require('path');
 const router = require('express').Router();
+const store = require('./store')
 
 // GET Route for feedback page
-router.get('/notes', (req, res) =>
-{
-
+router.get('/notes', (req, res) => {
+    store.getNotes().then((notes) => {
+        return res.json(notes);
+    }).catch(() => {
+        res.status(500).json(err);
+    })
 })
 
 
-// * means all paths it will check /notes first
-// GET Route for homepage
-router.post('/notes', (req, res) =>
-{
 
-})
-
-
-module.exports = router
+module.exports = router;
