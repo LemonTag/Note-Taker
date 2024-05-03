@@ -24,10 +24,11 @@ https://github.com/LemonTag/Note-Taker
 # credits
 My group meet-ups with my classes have helped 
 Cody Chase, the greatest TA ever, helped me show how to use Javascript and Node.
-![Mochisaii - Twitch - Google Chrome 5_2_2024 7_11_54 PM](https://github.com/LemonTag/Note-Taker/assets/50891761/580e22c6-fb25-43fb-bbd2-c384bbbe44e2)
+
 
 ![Note Taker - Google Chrome 5_2_2024 7_11_23 PM](https://github.com/LemonTag/Note-Taker/assets/50891761/6d1691f9-bd36-4626-9b25-749056fc7f6b)
 
+![Screenshot (96)](https://github.com/LemonTag/Note-Taker/assets/50891761/a0c70235-6d1e-425d-8bdc-7cba4af616ef)
 
 https://github.com/LemonTag/Note-Taker/assets/50891761/a98fd4fd-c5cf-46f5-98be-0238b85b3a78
 
